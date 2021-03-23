@@ -9,6 +9,9 @@ pluginInfo:
   supportUrl: 'none'
   category: 'Build'
   shell: 'ec-groovy'
+  repositoryUrl: https://github.com/electric-cloud-community/Gradle
+  label: Gradle
+  detailedDescription: Sample gradle plugin
 
 procedures:
   - name: 'Run Gradle'
