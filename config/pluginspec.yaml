@@ -11,7 +11,7 @@ pluginInfo:
   shell: 'ec-groovy'
   repositoryUrl: https://github.com/electric-cloud-community/Gradle
   label: Gradle
-  detailedDescription: Sample gradle plugin
+  # detailedDescription: Sample gradle plugin
 
 procedures:
   - name: 'Run Gradle'
